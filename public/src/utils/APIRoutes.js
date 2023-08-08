@@ -1,4 +1,4 @@
-export const host = "https://chat-it.onrender.com";
+export const host = "https://chat-app-unmy.onrender.com";
 // export const host = "https://chat-it.onrender.com/";
 // export const host = "https://vj-chat-app.herokuapp.com/";
 export const registerRoute = `${host}/api/auth/register`;
